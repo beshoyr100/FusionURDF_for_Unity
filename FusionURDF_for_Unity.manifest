@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Bishoy Labib",
+	"description":	{
+		"":	"Export Fusion360 to URDF file for Unity"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
